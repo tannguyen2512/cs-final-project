@@ -71,10 +71,12 @@ Done:
 - Understand DR.
 - Understand the traditional process of DR diagnose
 - Find references
+
 First week:
 - Ready some well-cited papers on the topic, identify pros and cons
 - Build the pipeline
 - Try with some transfer learning
+
 Second week:
 - Pick up one to fine tune, augmenting
 - Streamlit
